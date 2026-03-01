@@ -33,3 +33,12 @@ The analysis was conducted using **R**, focusing on complex survey data structur
 2.  **Descriptive Statistics:** Generating weighted means and distributions for literacy/numeracy scores across genders.
 3.  **Regression Modeling:** Logistic regression models calculating the odds of being a "top earner" (top 25%) based on skill levels, education, and demographic variables.
 4.  **Visualization:** Using `ggplot2` to visualize the shifts in wage distributions when controlling for cognitive proficiency.
+
+
+---
+
+## 📖 Citation
+
+If you use this code, data insights, or refer to the findings in your research, please cite the original white paper as follows:
+
+> Braun, H., & Gurkan, G. (2024). *Another Look at U.S. Gender-Based Wage Disparities: Insights from PIAAC*. Princeton, NJ: Educational Testing Service.
